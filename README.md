@@ -5,3 +5,4 @@
 3. pyqrcode - QR code generator
 4. Bitly Url Shortener
 5. Pyzar - QRcode & Barcode reader
+6. QRcode - QR code generator
