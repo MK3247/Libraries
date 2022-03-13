@@ -4,7 +4,7 @@ from pyzbar.pyzbar import decode
 
 import cv2
 
-img = cv2.imread('code.png')
+img = cv2.imread('/home/charles/Programming/Libraries/pyzar.png')
 
 code = decode(img)
 

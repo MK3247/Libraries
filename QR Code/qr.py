@@ -1,5 +1,5 @@
 import qrcode 
 
-img = qrcode.make('Hello World')
+img = qrcode.make('https://pypi.org/project/pyzbar/')
 
-img.save('hello.png')
+img.save('pyzar.png')
